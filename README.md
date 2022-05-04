@@ -70,7 +70,7 @@ Liew Yew Tze
 
 Tan Chor Yean tancy1979
 
-Wang Li Ling Lorraine lorraineneo
+Wang Li Ling Lorraine | lorraineneo | https://github.com/lorraineneo/ctcuchappeningproject
 
 Deon Chan Tian Wee deonchan23
 
