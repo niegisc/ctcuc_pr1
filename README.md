@@ -60,7 +60,7 @@ Teo Ann Lay Shirley shirleyteo
 
 Chen Shunfa
 
-Goh Terence tergh
+Goh Terence | tergh | https://github.com/tergh/ctcuc22.git
 
 Lee Yung Hei
 
