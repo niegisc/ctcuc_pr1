@@ -62,7 +62,7 @@ Chen Shunfa
 
 Goh Terence tergh
 
-Lee Yung Hei
+Lee Yung Hei | MrLeeYH | https://github.com/MrLeeYH/hp
 
 Cheung Jun Jie | jjcheung | https://github.com/jjcheung/HappeningProject2
 
