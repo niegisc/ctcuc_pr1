@@ -15,7 +15,7 @@ Chan Yew Sum Sunny sunnychan32
 
 Tan Yue Yun yueyun-2022
 
-Wong Wai Kit Charles charleswongwk
+Wong Wai Kit Charles | charleswongwk | https://github.com/charleswongwk/happeningproject
 
 Cheong Chong Min Kent
 
