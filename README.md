@@ -1,5 +1,4 @@
-# ctcuc_pr1
-First CTCUC pull requests practice
+# First CTCUC 2022 pull requests practice
 
 NAME | GITHUB ID | PROJECT ID
 Lim Ah Seng | limahseng | https://github.com/limahseng/happeningproject1 
@@ -16,13 +15,13 @@ Chan Yew Sum Sunny sunnychan32 (This is cool)
 
 Tan Yue Yun yueyun-2022
 
-Wong Wai Kit Charles charleswongwk
+Wong Wai Kit Charles | charleswongwk | https://github.com/charleswongwk/happeningproject
 
 Cheong Chong Min Kent
 
 Chia Kok Pin chiakp
 
-Ling Weicong
+Ling Weicong | Weicongg | 
 
 Ho Kah Yong Joel
 
@@ -64,13 +63,13 @@ Goh Terence tergh
 
 Lee Yung Hei
 
-Cheung Jun Jie jjcheung
+Cheung Jun Jie | jjcheung | https://github.com/jjcheung/HappeningProject2
 
 Liew Yew Tze
 
 Tan Chor Yean tancy1979
 
-Wang Li Ling Lorraine lorraineneo
+Wang Li Ling Lorraine | lorraineneo | https://github.com/lorraineneo/ctcuchappeningproject
 
 Deon Chan Tian Wee deonchan23
 
