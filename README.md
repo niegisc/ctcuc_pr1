@@ -1,5 +1,4 @@
-# ctcuc_pr1
-First CTCUC pull requests practice
+# First CTCUC 2022 pull requests practice
 
 NAME | GITHUB ID | PROJECT ID
 Lim Ah Seng | limahseng | https://github.com/limahseng/happeningproject1 
