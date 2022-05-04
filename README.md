@@ -63,7 +63,7 @@ Goh Terence tergh
 
 Lee Yung Hei
 
-Cheung Jun Jie jjcheung
+Cheung Jun Jie | jjcheung | https://github.com/jjcheung/HappeningProject2
 
 Liew Yew Tze
 
